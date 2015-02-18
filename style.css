@@ -1,0 +1,18 @@
+header {
+   color: GhostWhite;
+   
+   background-position: 50%;
+   height: 528px;
+   width: auto;
+   font-family: Open Sans, sans-serif
+}
+
+header h1 {
+  display: block;
+  font-size: 52px;
+}
+
+.content {
+  background-image: url('https://raw.githubusercontent.com/tiy-tpa-js-q1-2015/assignments/master/004/assets/header.jpg');
+  width: 100%;
+}
